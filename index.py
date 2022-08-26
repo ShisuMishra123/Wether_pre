@@ -9,8 +9,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 
 
-API_KEY = os.environ['API_KEY']
-owm = pyowm.OWM(API_KEY)
+
 mgr=owm.weather_manager()
 
 degree_sign= u'\N{DEGREE SIGN}'
