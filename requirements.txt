@@ -5,5 +5,3 @@ DateTime
 pyowm
 plotly
 boto
-os
-pytz
