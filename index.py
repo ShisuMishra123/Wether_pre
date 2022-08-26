@@ -10,7 +10,6 @@ import plotly.express as px
 
 
 
-mgr=owm.weather_manager()
 
 degree_sign= u'\N{DEGREE SIGN}'
 
