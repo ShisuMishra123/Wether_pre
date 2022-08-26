@@ -14,7 +14,7 @@ import plotly.express as px
 degree_sign= u'\N{DEGREE SIGN}'
 
 st.title("5 Day Weather Forecast")
-st.write("## Made by Jayvardhan Rathi with ❤️")
+st.write("## Made by Shisu Mishra with ❤️")
 
 st.write("### Write the name of a City and select the Temperature Unit and Graph Type from the sidebar")
 
